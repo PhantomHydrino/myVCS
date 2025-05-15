@@ -24,7 +24,7 @@ This project currently uses [Python](https://python.org) for simplicity reasons(
 ## Installation
 
 Install the dependencies.
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 
 Run the program.
 ```python main.py <commands_listed_above>```
