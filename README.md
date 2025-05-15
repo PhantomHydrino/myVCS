@@ -13,8 +13,9 @@ So yeah, its a little version control system build in  ![Python](https://img.shi
 - Checking config of your repository using ```main.py config```
 - Checking status of your repository using ```main.py status```
 - Checking logs using ```main.py log```
+- And more features like Branching and stuff which I have planned on developing in the future.
 
-Its a very small version control which I plan to build further and improvise as time progresses, but the aim of this project to me was, to build a little version control of myself which I can run locally in order to have full control of whatever I commit, just for fun.
+Its a very small version control which I plan to build further and improvise as time progresses, but the aim of this project to me was, to build a little version control of myself which I can run locally on my system in order to have full control of whatever I commit, just for fun.
 
 ## Tech
 
