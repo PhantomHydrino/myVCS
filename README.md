@@ -3,7 +3,7 @@
 
 
 I just decided to make my own version control system for fun... and to fill my resume a little bit.
-So yeah, its a little version control system build in  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+So yeah, its a little version control system built in  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Features
 
